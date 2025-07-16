@@ -371,8 +371,8 @@ MonoBehaviour:
   bulletSpawner: {fileID: 1798665102}
   mainCamera: {fileID: 963194227}
   fireKey: 32
-  burstFireKey: 98
-  autoFireKey: 102
+  burstFireKey: 16
+  autoFireKey: 20
   autoFire: 0
   autoFireRate: 0.05
 --- !u!4 &1286519932
